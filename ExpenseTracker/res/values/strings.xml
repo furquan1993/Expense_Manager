@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expense Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="current_month">August</string>
+    <string name="overview_title">Overview</string>
+    <string name="balance">Rs. 5200</string>
+    <string name="expense">Rs. 800 spent</string>
+    <string name="category1">Travel</string>
+    <string name="category2">Food</string>
+    <string name="category3">Leisure</string>
+    <string name="category4">Other</string>
+    <string name="category1_expense">Rs. 200</string>
+    <string name="category2_expense">Rs. 200</string>
+    <string name="category3_expense">Rs. 200</string>
+    <string name="category4_expense">Rs. 200</string>
+
+</resources>
